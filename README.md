@@ -1,5 +1,5 @@
 # angular-crud-open-legacy
-![image](https://raw.githubusercontent.com/OrShemesh1992/ItemsController-Spring-Boot/main/image/image_project.png)
+![image](https://raw.githubusercontent.com/OrShemesh1992/angular-crud/main/image/image_project.png)
 
 
 ## Author
