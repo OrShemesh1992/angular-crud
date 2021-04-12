@@ -1,7 +1,21 @@
 # angular-crud-open-legacy
-    Creating Angular pages that enable to create/read/update and/delete the item. 
-    Deploying the Application onto a hosting service Heroku.
-    I used data base "fire base"
+![image](https://raw.githubusercontent.com/OrShemesh1992/ItemsController-Spring-Boot/main/image/image_project.png)
 
 
+## Author
+ [Or Shemesh](https://github.com/OrShemesh1992)
 
+
+## About the project:
+  Creating Angular pages that enable to create/read/update and/delete the item. 
+  Used a hosting service Heroku.
+  Used data base "fire base"
+ 
+
+## How to use the project:
+ * https://angular-crud-todo.herokuapp.com/
+
+## Sources:
+
+* https://dashboard.heroku.com/
+* https://firebase.google.com/
