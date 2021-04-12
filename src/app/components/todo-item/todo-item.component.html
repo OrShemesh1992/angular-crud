@@ -1,0 +1,5 @@
+<li class="mt-1">
+  {{todoItem.name}} -
+  <button (click)="openTodoModal(todoItem)" class="btn btn-info btn-sm">Edit</button>
+  <button (click)="deleteTodo(todoItem.id)" class="btn btn-danger btn-sm ml-1">Delete</button>
+</li>

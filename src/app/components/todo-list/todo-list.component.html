@@ -1,0 +1,15 @@
+<div class="mt-2">
+  <h3>My Todo List -
+    <button (click)="openTodoModal()" class="btn btn-primary btn-sm">Add</button>
+  </h3>
+</div>
+
+<div class="mb-2">
+  <ul *ngIf="todoItems.length>0; else noTodoItems">
+    <app-todo-item *ngFor="let todoItem of todoItems" [todoItem]="todoItem"></app-todo-item>
+  </ul>
+
+  <ng-template #noTodoItems>
+    Hooray, no task here!
+  </ng-template>
+</div>
