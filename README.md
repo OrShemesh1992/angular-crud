@@ -7,9 +7,9 @@
 
 
 ## About the project:
-  Creating Angular pages that enable to create/read/update and/delete the item. 
-  Used a hosting service Heroku.
-  Used data base "fire base"
+  Creating Angular pages that enable to create/read/update and/delete the item. </br>
+  Used a hosting service Heroku.</br>
+  Used data base "fire base".</br>
  
 
 ## How to use the project:
