@@ -23,9 +23,12 @@
     "@angular/router": "~11.0.4",
     "@ng-bootstrap/ng-bootstrap": "^9.1.0",
     "bootstrap": "^4.5.0",
+    "enhanced-resolve": "^3.3.0",
+    "express": "^4.17.1",
     "firebase": "^8.3.3",
     "ngx-spinner": "^11.0.1",
     "ngx-toastr": "^13.2.1",
+    "path": "^0.12.7",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
