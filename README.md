@@ -15,6 +15,12 @@
 ## How to use the project:
  * https://angular-crud-todo.herokuapp.com/
 
+## Local host:
+  * download project 
+  * command run: npm i
+  * command run: ng s
+  * http://localhost:4200/
+  
 ## Sources:
 
 * https://dashboard.heroku.com/
